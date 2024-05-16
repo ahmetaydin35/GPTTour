@@ -1,1 +1,1 @@
-Next JS & ChatGPT API & Clerk Auth
+Next JS & ChatGPT API & Clerk Auth & Tailwind
