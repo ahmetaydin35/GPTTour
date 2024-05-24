@@ -1,1 +1,1 @@
-Next JS & ChatGPT API & Clerk Auth & Tailwind & Prisma
+Next JS & ChatGPT API & Clerk Auth & TanStack & Tailwind & Prisma
