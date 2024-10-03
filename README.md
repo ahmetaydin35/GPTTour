@@ -1,1 +1,1 @@
-Next JS & OpenAI API & Clerk Auth & TanStack & Tailwind & Prisma
+Next JS & OpenAI  & Clerk Auth & TanStack & Tailwind & Prisma
